@@ -1,1 +1,1 @@
-# Hand-Pose-Estiamtion
+# Hand-Pose-Esimation
