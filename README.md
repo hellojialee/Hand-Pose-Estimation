@@ -1,6 +1,6 @@
 # Hand-Pose-Estimation
 
-Demo for our paper “Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image” in ICPR 2018.
+Code and Demo for our paper “Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image” in ICPR 2018.
 
 ```
 @inproceedings{li2018local,
